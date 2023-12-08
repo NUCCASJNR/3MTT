@@ -24,3 +24,6 @@ code {
   color: white;
 }
 
+.user-profile-card{
+  border-radius: 50%;
+}
